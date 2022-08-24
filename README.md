@@ -1,2 +1,2 @@
 # Demo
-This is a readme file
+This is a demo project to learn how to use git
